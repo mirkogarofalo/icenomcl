@@ -1,3 +1,5 @@
+**NomCl - Empirical data on Clausal Nominalization in Icelandic**
+
 The data in this repository are related to the following doctoral dissertation:
 
 Garofalo, Mirko. (2024). _Clausal Nominalization in Icelandic_. Ph.D. thesis in Icelandic linguistics. University of Iceland. 
