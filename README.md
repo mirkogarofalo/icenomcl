@@ -1,4 +1,4 @@
-**IceNomCl - Empirical data on Clausal Nominalization in Icelandic**
+**IceNomCl - Icelandic Nominalized Clauses**
 
 The data in this repository are related to the following doctoral dissertation:
 
