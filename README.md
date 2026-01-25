@@ -6,4 +6,4 @@ Garofalo, Mirko. (2025). _Clausal Nominalization in Icelandic_. Ph.D. thesis in 
 
 The data from corpora have been gathered from the Icelandic Gigaword Corpus (Risamálheild). The data from questionnaires have been obtained through online forms, while the ones from oral interviews (on clausal indirect objects) have been obtained orally.
 
-The folder _IcePaHC_ contains diachronic data on Icelandic nominalized clauses obtained from the Icelandic Parsed Historical Corpus (project in progress).
+The folder _IcePaHC_ contains diachronic data on Icelandic nominalized clauses obtained from the Icelandic Parsed Historical Corpus (these data are related to an ongoing project and will be completed soon).
